@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">ExamPARKCASTRO</string>
+    <string name="title">6 Basic Animal Groups</string>
+    <string name="fish">Fish</string>
+    <string name="bird">Birds</string>
+    <string name="mammal">Mammals</string>
+    <string name="reptile">Reptiles</string>
+    <string name="amphibian">Amphibians</string>
+    <string name="invertebrate">Invertebrates</string>
+    <string name="fishdesc1">Fish are aquatic vertebrate animals that have gills but lack limbs with digits,
+        like fingers or toes. Recall that vertebrates are animals with internal backbones.
+        Most fish are streamlined in their general body form. fish, any of approximately 34,000 species of vertebrate animals found in the fresh and salt
+        waters of the world. Living species range from the primitive jawless lampreys and hagfishes through the cartilaginous sharks, skates, and rays
+        to the abundant and diverse bony fishes. Most fish species are cold-blooded;
+        however, one species, the opah (Lampris guttatus), is warm-blooded. </string>
+    <string name="birddesc1">Bird, (class Aves), any of the more than 10,400 living species unique in having feathers,
+        the major characteristic that distinguishes them from all other animals.
+        A more-elaborate definition would note that they are warm-blooded vertebrates
+        more related to reptiles than to mammals and that they have a four-chambered heart
+        (as do mammals), forelimbs modified into wings (a trait shared with bats), a hard-shelled egg,
+        and keen vision, the major sense they rely on for information about the environment.
+        Their sense of smell is not highly developed, and auditory range is limited.
+        Most birds are diurnal in habit. More than 1,000 extinct species have been identified
+        from fossil remains.</string>
+    <string name="mammaldesc1">Mammals are a group of vertebrate animals constituting the class
+        Mammalia (/məˈmeɪli.ə/), characterized by the presence of mammary glands which in females
+        produce milk for feeding (nursing) their young, a neocortex (a region of the brain),
+        fur or hair, and three middle ear bones. These characteristics distinguish them from reptiles
+        (including birds) from which they diverged in the Carboniferous, over 300 million years ago. Around 6,400 extant species of mammals
+        have been described divided into 29 orders. The largest orders, in terms of number of species, are the rodents, bats, and Eulipotyphla
+        (hedgehogs, moles, shrews, and others). The next three are the Primates (including humans, apes, monkeys, and others), the Artiodactyla
+        (cetaceans and even-toed ungulates), and the Carnivora (cats, dogs, seals, and others).</string>
+    <string name="amphibiansdesc1">Amphibians are a class of cold-blooded vertebrates made up of frogs, toads, salamanders, newts, and caecilians
+        (wormlike animals with poorly developed eyes). All amphibians spend part of their lives in water and part on land, which is how
+        they earned their name—“amphibian” comes from a Greek word meaning “double life.” These animals are born with gills, and while some outgrow
+        them as they transform into adults, others retain them for their entire lives. Amphibians are the most threatened class of
+        animals in nature. They are extremely susceptible to environmental threats because of their porous eggs and semipermeable skin.
+        Every major threat, from climate change to pollution to disease, affects amphibians and has put them at serious risk.</string>
+    <string name="reptilesdesc1">Reptiles are air-breathing vertebrates covered in special skin made up of scales, bony plates,
+        or a combination of both. They include crocodiles, snakes, lizards, turtles, and tortoises. All regularly shed the outer
+        layer of their skin. Their metabolism depends on the temperature of their environment.The extinct reptiles included an even more diverse group of animals that ranged from the marine plesiosaurs, pliosaurs, and ichthyosaurs to the giant plant-eating and meat-eating dinosaurs of terrestrial environments. Taxonomically, Reptilia and Synapsida (a group of mammal-like reptiles and their extinct relatives) were sister groups that diverged from a common ancestor during the Middle Pennsylvanian Epoch (approximately 312 million to 307 million years ago).
+        For millions of years representatives of these two groups were superficially similar.</string>
+    <string name="invertebratesdesc1">Invertebrates are the most diverse and numerous group of animals on Earth. There are more than 140,000 invertebrates in the United States—a number that is growing as researchers identify more and more species. Of the invertebrates in the U.S., approximately 200 are on the endangered species list.
+An invertebrate is a cold-blooded animal with no backbone. Invertebrates can live on land—like insects, spiders, and worms—or in water.
+        Marine invertebrates include crustaceans (such as crabs and lobsters), mollusks (such as squids and clams), and coral. Invertebrates are especially important as agricultural pests, parasites, or agents for
+        the transmission of parasitic infections to humans and other vertebrates.</string>
+
+</resources>
